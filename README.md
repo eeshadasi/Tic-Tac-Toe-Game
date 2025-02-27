@@ -37,7 +37,7 @@ This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.
 - Keep track of player scores.
 
 ## Author
-- **Divya**
+- **D.EESHA**
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
